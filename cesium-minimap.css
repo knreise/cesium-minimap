@@ -9,6 +9,9 @@
   border-radius: 8px;
   box-shadow: 0 1px 7px #999;
   transition: all 0.2s ease 0s;
+  -webkit-box-sizing: content-box !important;
+  -moz-box-sizing: content-box !important;
+  box-sizing: content-box !important;
 }
 
 .cesium-minimap .minimap-container {
