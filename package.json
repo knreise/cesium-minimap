@@ -1,6 +1,6 @@
 {
   "name": "cesium-minimap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minimap for Cesiumjs",
   "main": "cesium-minimap.js",
   "scripts": {
